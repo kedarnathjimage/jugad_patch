@@ -1,0 +1,6 @@
+name: Jugaad Patch Module
+description: This is the custom module created by Kedarnath Jimage  for Drupal coding assessment.
+type: module
+core: 8.x
+package: custom
+core_version_requirement: ^8 || ^9

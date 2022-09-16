@@ -1,0 +1,16 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - jugaad_patch
+id: productcustomblock
+region: sidebar_second
+weight: 0
+provider: null
+plugin: product_custom_block
+settings:
+  id: product_custom_block
+  label: 'Scan here on your mobile'
+  provider: jugaad_patch
+  label_display: visible
+visibility: {  }
